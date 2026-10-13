@@ -1,0 +1,21 @@
+{
+  "name": "chaiandbackend",
+  "version": "1.0.0",
+  "description": "backend mongoose",
+  "keywords": [
+    "chai",
+    "ayush",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "ayush kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0"
+  }
+}
